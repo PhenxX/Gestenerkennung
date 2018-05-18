@@ -1,0 +1,17 @@
+DerivedDataCache
+Intermediate
+Saved
+GestureLogs
+.vs/Gestenerkennung/v15/ipch
+Gestenerkennung/Content/StarterContent/Architecture/Floor_400x400.uasset
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.pdb
+*.target
+*.modules
+*.xcodeproj
+*.xcworkspace
+*.sln
